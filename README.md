@@ -1,2 +1,5 @@
 # hello-world
-hello world to Github
+hello there!!! 
+
+I'm Quang and learning code for food! 
+
